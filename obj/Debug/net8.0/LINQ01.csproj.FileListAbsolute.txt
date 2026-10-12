@@ -1,0 +1,15 @@
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\bin\Debug\net8.0\LINQ01.exe
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\bin\Debug\net8.0\LINQ01.deps.json
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\bin\Debug\net8.0\LINQ01.runtimeconfig.json
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\bin\Debug\net8.0\LINQ01.dll
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\bin\Debug\net8.0\LINQ01.pdb
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\obj\Debug\net8.0\LINQ01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\obj\Debug\net8.0\LINQ01.AssemblyInfoInputs.cache
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\obj\Debug\net8.0\LINQ01.AssemblyInfo.cs
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\obj\Debug\net8.0\LINQ01.csproj.CoreCompileInputs.cache
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\obj\Debug\net8.0\LINQ01.dll
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\obj\Debug\net8.0\refint\LINQ01.dll
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\obj\Debug\net8.0\LINQ01.pdb
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\obj\Debug\net8.0\LINQ01.genruntimeconfig.cache
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\obj\Debug\net8.0\ref\LINQ01.dll
+D:\Route\C48\05 LINQ\Session 01\Projects\LINQ01\obj\Debug\net8.0\LINQ01.csproj.Up2Date
